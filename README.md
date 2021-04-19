@@ -15,4 +15,4 @@ RISCVOBJDUMP=riscv32-unknown-elf-objdump
 
 # 基本使用
 
-`make all`可以构建整个工程
+`make all`可以构建整个工程，`make clean`用于清空整个工程，`make pupl`用于运行模拟器，`make moni`用于运行监视器
