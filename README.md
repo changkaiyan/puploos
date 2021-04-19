@@ -12,3 +12,7 @@ RISCVLD=riscv32-unknown-elf-ld
 RISCVOBJCOPY=riscv32-unknown-elf-objcopy
 RISCVOBJDUMP=riscv32-unknown-elf-objdump
 ```
+
+# 基本使用
+
+`make all`可以构建整个工程
